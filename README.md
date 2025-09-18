@@ -112,22 +112,6 @@ Click Generate PDF to download professional Quotation PDF
 
 Email notifications will be sent automatically 
 
- 
-
-📸 Screenshots 
-
-Custom Object & Fields 
-
-Flow (Opportunity → Quotation) 
-
-Approval Process setup 
-
-Submit for Approval + Approve/Reject buttons 
-
-Generated PDF sample 
-
-Dashboard view 
- 
 
 👨‍💻 Author 
 
@@ -135,18 +119,4 @@ Harsh Nagwani
 
  TCS iON/LastMile Salesforce Program | AIML Enthusiast 
 
- 
-
-⭐ Acknowledgements 
-
-Salesforce Documentation 
-
-TCS iON/LastMile Program 
-
-GitHub for Version Control 
-
- 
---- 
- 
-👉 Bhai, tu chahta hai mai is README me **sample PDF output image + dashboard screenshot placeholder links** bhi daal du taaki aur professional lage? 
  
